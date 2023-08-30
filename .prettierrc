@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "files": "**/*.liquid",
+      "options": {
+        "parser": "liquid",
+        "singleQuote": true,
+        "tabWidth": 4
+      }
+    }
+  ]
+}
